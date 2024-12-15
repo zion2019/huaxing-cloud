@@ -29,7 +29,7 @@
         <springfox.swagger.version>2.9.2</springfox.swagger.version>
         <boss-scratch-dependencies.version>0.0.2-SNAPSHOT</boss-scratch-dependencies.version>
         <jedis.version>2.9.3</jedis.version>
-        <common-beanutils.version>1.9.2</common-beanutils.version>
+        <common-beanutils.version>1.9.4</common-beanutils.version>
         <sharding-jdbc-core.version>3.1.0</sharding-jdbc-core.version>
         <druid-spring-boot-starter.version>1.1.20</druid-spring-boot-starter.version>
         <guava.version>20.0</guava.version>
